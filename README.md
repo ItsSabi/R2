@@ -1,5 +1,12 @@
 # README
 
+Sept 4, 2019
+Working on Javascript research and learning. 
+Going through Odin Project to freshen what I know and build off it. ss
+
+
+
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
