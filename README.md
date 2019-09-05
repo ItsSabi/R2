@@ -2,7 +2,10 @@
 
 Sept 4, 2019
 Working on Javascript research and learning. 
-Going through Odin Project to freshen what I know and build off it. ss
+Going through Odin Project to freshen what I know and build off it. 
+
+These projects are being done on a Linux virtual machine.
+Other directory is being done on different computer. 
 
 
 
